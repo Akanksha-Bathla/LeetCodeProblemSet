@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
