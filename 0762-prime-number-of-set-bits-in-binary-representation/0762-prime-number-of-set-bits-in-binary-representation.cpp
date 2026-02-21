@@ -15,12 +15,12 @@ public:
 
         for(int i=left; i<=right; i++){
 
-            int cntSetbits = 0;
-            int x = i;
-            while(x>0){
-                if(x&1==1) cntSetbits++;
-                x>>=1;
-            }
+            int cntSetbits = __builtin_popcount(i);
+            // int x = i;
+            // while(x>0){
+            //     if(x&1==1) cntSetbits++;
+            //     x>>=1;
+            // }
             if(isPrime(cntSetbits)) cntPrimes++;
         }
 
