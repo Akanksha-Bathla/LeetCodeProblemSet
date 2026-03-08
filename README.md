@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
+| [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
+| [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
