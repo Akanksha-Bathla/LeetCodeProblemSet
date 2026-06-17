@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
@@ -60,5 +61,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0031-next-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
