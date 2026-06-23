@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
