@@ -32,7 +32,7 @@ public:
         // return prev[n-1];
 
         // combinatorics ncr
-        double res = 1;
+        long long res = 1;
         int N = m+n-2;
         int r = m-1;
         for(int i=1; i<=r; i++){
