@@ -12,21 +12,33 @@ private:
     // }
 public:
     int uniquePaths(int m, int n) {
-        // vector<vector<int>> dp(m, vector<int>(n, -1));
-        vector<int> prev(n, -1);
-        for(int i=0; i<m; i++){
-            vector<int> curr(n, -1);
-            for(int j=0; j<n; j++){
-                if(i==0 && j==0) curr[0] = 1;
-                else{
-                    int up = 0, left = 0;
-                    if(i>0) up = prev[j];
-                    if(j>0) left = curr[j-1];
-                    curr[j] = up + left;
-                }
-            }
-            prev = curr;
+        // vector<vector<int>> dp(m, vector<int>(n, -1));  // 2d - tabulation  
+
+        //space optimised sol      
+        // vector<int> prev(n, -1);
+        // for(int i=0; i<m; i++){
+        //     vector<int> curr(n, -1);
+        //     for(int j=0; j<n; j++){
+        //         if(i==0 && j==0) curr[0] = 1;
+        //         else{
+        //             int up = 0, left = 0;
+        //             if(i>0) up = prev[j];
+        //             if(j>0) left = curr[j-1];
+        //             curr[j] = up + left;
+        //         }
+        //     }
+        //     prev = curr;
+        // }
+        // return prev[n-1];
+
+        // combinatorics ncr
+        double res = 1;
+        int N = m+n-2;
+        int r = m-1;
+        for(int i=1; i<=r; i++){
+            res = res * (N-r+i)/i;
+            // cout << res << endl;
         }
-        return prev[n-1];
+        return (int)res;
     }
 };
