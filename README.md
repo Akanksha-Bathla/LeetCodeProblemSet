@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0229-majority-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
