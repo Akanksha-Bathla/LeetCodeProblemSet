@@ -42,10 +42,10 @@ public:
                     curr[j1][j2] = INT_MIN;
                     for(int dj1=-1; dj1<2; dj1++){
                         for(int dj2=-1; dj2<2; dj2++){
-                            int value = 0;
+                            int value = -1e9;
                             if(j1==j2) value = grid[i][j1];
                             else value = grid[i][j1] + grid[i][j2];
-                            if(j1+dj1 >=0 && j1+dj1<m && j2+dj2>=0 && j2+dj2<m)value += prev[j1+dj1][j2+dj2];
+                            if(j1+dj1 >=0 && j1+dj1<m && j2+dj2>=0 && j2+dj2<m) value += prev[j1+dj1][j2+dj2];
                             curr[j1][j2] = max(curr[j1][j2], value);
                         }
                     }
