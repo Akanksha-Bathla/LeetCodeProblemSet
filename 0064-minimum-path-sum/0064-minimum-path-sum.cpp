@@ -18,18 +18,21 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        // vector<vector<int>> dp(n, vector<int>(m, -1));
+        vector<int> prev(m, -1);
         for(int i=0; i<n; i++){
+            vector<int> curr(m, -1);
             for(int j=0; j<m; j++){
-                if(i==0 && j==0) dp[i][j] = grid[i][j];
+                if(i==0 && j==0) curr[j] = grid[i][j];
                 else{
                     int up = INT_MAX, left = INT_MAX;
-                    if(i>0) up = grid[i][j] + dp[i-1][j];
-                    if(j>0) left = grid[i][j] + dp[i][j-1];
-                    dp[i][j] = min(up, left);
+                    if(i>0) up = grid[i][j] + prev[j];
+                    if(j>0) left = grid[i][j] + curr[j-1];
+                    curr[j] = min(up, left);
                 }
             }
+            prev = curr;
         }
-        return dp[n-1][m-1];
+        return prev[m-1];
     }
 };
