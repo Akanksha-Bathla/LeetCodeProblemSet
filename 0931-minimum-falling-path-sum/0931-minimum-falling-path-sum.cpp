@@ -17,24 +17,27 @@ public:
         int m = matrix[0].size();
         int mini = 1e9;
 
-        vector<vector<int>> dp(n, vector<int>(m, 0));
+        // vector<vector<int>> dp(n, vector<int>(m, 0));
+        vector<int> prev(m, 0);
         for(int j=0; j<m; j++){
-            dp[0][j] = matrix[0][j];
+            prev[j] = matrix[0][j];
         }
 
         for(int i=1; i<n; i++){
+            vector<int> curr(m, 0);
             for(int j=0; j<m; j++){
-                int s = matrix[i][j] + dp[i-1][j];
+                int s = matrix[i][j] + prev[j];
                 int ld = 1e9, rd = 1e9;
-                if(j>0) ld = matrix[i][j] + dp[i-1][j-1];
-                if(j<m-1) rd = matrix[i][j] + dp[i-1][j+1];
+                if(j>0) ld = matrix[i][j] + prev[j-1];
+                if(j<m-1) rd = matrix[i][j] + prev[j+1];
                 
-                dp[i][j] = min(s, min(ld, rd));
+                curr[j] = min(s, min(ld, rd));
             }
+            prev = curr;
         }
 
         for(int j=0; j<m; j++){
-            mini = min(dp[n-1][j], mini);
+            mini = min(prev[j], mini);
         }
 
         return mini;
