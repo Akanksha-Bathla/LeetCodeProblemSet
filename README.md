@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0213-house-robber-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0213-house-robber-ii) |
