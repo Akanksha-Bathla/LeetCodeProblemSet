@@ -6,11 +6,10 @@ public:
 
         int n = g.size(), m = s.size();
 
-        int i=0, j=0, cnt = 0; 
+        int i=0, j=0; 
         if(m == 0) return 0;
         while(i<n && j<m){
             if(s[j] >= g[i]){
-                cnt++;
                 j++;
                 i++;
             }else{
@@ -18,6 +17,6 @@ public:
             }
         }
 
-        return cnt;
+        return i;
     }
 };
