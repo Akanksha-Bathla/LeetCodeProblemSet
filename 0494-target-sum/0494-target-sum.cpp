@@ -13,23 +13,24 @@ public:
             return 0;
         }
 
-        vector<vector<int>> dp(n, vector<int>(target+1, 0));
+        // vector<vector<int>> dp(n, vector<int>(target+1, 0));
+        vector<int> prev(target+1, 0);
 
         for(sum=0; sum<=target; sum++){
-            if(sum == 0 && nums[0] == 0) dp[0][sum] = 2;
-            else if(sum == 0 || sum == nums[0]) dp[0][sum] = 1;
-            else dp[0][sum] = 0;
+            if(sum == 0 && nums[0] == 0) prev[sum] = 2;
+            else if(sum == 0 || sum == nums[0]) prev[sum] = 1;
+            else prev[sum] = 0;
         }
 
         for(int ind = 1; ind<n; ind++){
-            for(int sum = 0; sum<=target; sum++){
-                int notTake = dp[ind-1][sum];
+            for(int sum = target; sum>=0; sum--){
+                int notTake = prev[sum];
                 int take = 0;
-                if(nums[ind] <= sum) take = dp[ind-1][sum - nums[ind]];
-                dp[ind][sum] = take + notTake;
+                if(nums[ind] <= sum) take = prev[sum - nums[ind]];
+                prev[sum] = take + notTake;
             }
         }
 
-        return dp[n-1][target];
+        return prev[target];
     }
 };
