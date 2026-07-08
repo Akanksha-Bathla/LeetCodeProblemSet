@@ -21,20 +21,21 @@ public:
 
         int sz = arr.size();
 
-        vector<vector<int>> dp(sz, vector<int>(n+1, 0));
-        for(int sum=0; sum<=n; sum++) dp[0][sum] = sum;
+        // vector<vector<int>> dp(sz, vector<int>(n+1, 0));
+        vector<int> prev(n+1, 0);
+        for(int sum=0; sum<=n; sum++) prev[sum] = sum;
 
         for(int ind=1; ind<sz; ind++){
             for(int sum=0; sum<=n; sum++){
-                int notTake = dp[ind-1][sum];
+                int notTake = prev[sum];
                 int take = 1e9;
-                if(arr[ind] <= sum) take = 1 + dp[ind][sum-arr[ind]];
+                if(arr[ind] <= sum) take = 1 + prev[sum-arr[ind]];
 
-                dp[ind][sum] = min(take, notTake);
+                prev[sum] = min(take, notTake);
             }
         }
 
-        return dp[sz-1][n];
+        return prev[n];
 
     }
 };
