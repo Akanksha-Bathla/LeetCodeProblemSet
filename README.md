@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
