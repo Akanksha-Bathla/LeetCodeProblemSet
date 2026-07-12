@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1463-cherry-pickup-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
