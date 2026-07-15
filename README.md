@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0516-longest-palindromic-subsequence) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0322-coin-change) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
