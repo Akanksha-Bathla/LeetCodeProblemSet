@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1463-cherry-pickup-ii) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0229-majority-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0279-perfect-squares) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0229-majority-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
