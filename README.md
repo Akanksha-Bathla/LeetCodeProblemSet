@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0090-subsets-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0868-binary-gap) |
 ## String
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
