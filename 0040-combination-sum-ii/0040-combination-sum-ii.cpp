@@ -13,7 +13,6 @@ private:
             ds.push_back(arr[j]);
             f(j+1, arr, target-arr[j], ds, result);
             ds.pop_back();
-            target+arr[j];
         }
     }
 public:
