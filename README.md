@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0064-minimum-path-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
