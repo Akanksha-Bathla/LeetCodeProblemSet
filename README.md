@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0213-house-robber-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0229-majority-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1092-shortest-common-supersequence) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0213-house-robber-ii) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -224,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0144-binary-tree-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
