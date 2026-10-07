@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0455-assign-cookies) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0144-binary-tree-preorder-traversal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -243,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0020-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
