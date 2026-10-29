@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0997-find-the-town-judge) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1463-cherry-pickup-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/1463-cherry-pickup-ii) |
 ## Math
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0994-rotting-oranges) |
 ## Recursion
 |  |
 | ------- |
