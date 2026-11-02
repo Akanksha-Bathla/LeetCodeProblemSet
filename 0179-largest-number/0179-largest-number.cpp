@@ -1,19 +1,15 @@
 class Solution {
-private:
-    static bool comp(string a, string b) {
-        return a + b > b + a;
-    }
 public:
     string largestNumber(vector<int>& nums) {
         string ans = "";
         int n = nums.size();
         vector<string> ls;
         for(int i: nums){
-            string str = to_string(i);
-            cout << str << endl;
-            ls.push_back(str);
+            ls.push_back(to_string(i));
         }
-        sort(ls.begin(), ls.end(), comp);
+        sort(ls.begin(), ls.end(), [](const string &a, const string &b){
+            return a+b > b+a;
+        });
         
         for(string i: ls){
             ans += i;
