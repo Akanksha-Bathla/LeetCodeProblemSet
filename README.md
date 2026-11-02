@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0206-reverse-linked-list) |
 ## Quicksort
 |  |
 | ------- |
