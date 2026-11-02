@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0518-coin-change-ii) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0997-find-the-town-judge) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
