@@ -8,7 +8,6 @@ private:
             if(piles[i]%k == 0) hrs += piles[i]/k;
             else hrs += piles[i]/k + 1;
         }
-        cout << "k: " << k<<endl;
         if(hrs <= h) return true;
         return false;
     }
