@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0518-coin-change-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0931-minimum-falling-path-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksha-Bathla/LeetCodeProblemSet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
