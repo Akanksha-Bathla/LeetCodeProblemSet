@@ -7,7 +7,7 @@ public:
         if(n==4) return 2;
         for(int i=2; i*i<=n; i++){
             if(sieve[i] == true){
-                for(int j=i*2; j<n; j+=i){
+                for(int j=i*i; j<n; j+=i){
                     sieve[j] = false;
                 }
             }
